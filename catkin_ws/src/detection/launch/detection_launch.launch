@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="detection" type="aruco_detection.py" name="detection" output"screen" />
+	<include file="/home/rumeysa/catkin_ws/src/deneme/launch/bos_dunya.launch" />
+</launch>
