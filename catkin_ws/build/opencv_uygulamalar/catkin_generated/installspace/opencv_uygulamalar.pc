@@ -1,0 +1,8 @@
+prefix=/home/rumeysa/catkin_ws/install
+
+Name: opencv_uygulamalar
+Description: Description of opencv_uygulamalar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
